@@ -1,1 +1,2 @@
-# Kids-toy
+# proposal
+In this project, I will build a unlocking simulator. There are three locks for the safe deposit box. Player needs to turn the button to find where the lock is. The closer player approaches the crack of lock, the sharper voice they will hear. If the player stays on the right position for 2 second, one lock will open, and one led will on. There is also a  ultrasonic sensor to detect the player. If player have large action during the game, he will hear the alarm and lose the game. Player wins the game when they unlock all three locks, and they will hear a congratulation sound.
